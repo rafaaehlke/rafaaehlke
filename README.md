@@ -1,7 +1,7 @@
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
-# Rafael Eglke
+# Rafael Ehlke
 
 ## Olá pessoal 👋
 Desde criança sou fissurado em computador, códigos, resolver problemas que envolvam computadores, códigos...
