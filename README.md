@@ -3,8 +3,8 @@
 
 # Rafael Ehlke
 
-## Olá pessoal 👋
-Desde criança sou fissurado em computador, códigos, resolver problemas que envolvam computadores, códigos...
+Olá pessoal 👋
+Meu nome é Rafael, moro em Santa Catarina! Atualmente exerço a profissão de vendedor. Estou buscando seguir meu sonho, trabalhar na area de TI!
 
  :rocket: Estou estudando a trilha Discovery na **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando aprender front-end e back-end
